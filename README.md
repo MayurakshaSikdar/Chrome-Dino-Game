@@ -1,6 +1,6 @@
 # **Chrome-Dino-Game**
 
-![](./media/image1.png)
+![](./media/image.png)
 
 This is an **AUTOMATION** of the Chrome Dino Game using Python3.
 
